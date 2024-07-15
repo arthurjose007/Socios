@@ -99,7 +99,7 @@ class _SignUPPageState extends State<SignUPPage> {
         child: Column(
           children: [
             Container(
-              padding: const EdgeInsets.symmetric(horizontal: 31),
+              padding: const EdgeInsets.symmetric(horizontal: 32),
               height: MediaQuery.of(context).size.height,
               width: double.infinity,
               child: Form(
